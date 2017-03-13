@@ -1,8 +1,8 @@
 import paramiko
 
-host = ‘1.1.3.1'
-user = ‘user’
-secret = ‘secret’
+host = '1.1.3.1'
+user = 'user'
+secret = 'secret'
 port = 22
 
 client = paramiko.SSHClient()
